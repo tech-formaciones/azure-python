@@ -1,0 +1,1 @@
+curl -X GET -H "Authorization: 8aaWPy5SzLubp9ApRQbZkWkHA6PFZ33n" http://localhost:5000/api/products/11 -i
